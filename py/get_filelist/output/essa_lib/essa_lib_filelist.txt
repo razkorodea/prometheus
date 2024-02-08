@@ -1,0 +1,2 @@
+essa_lib/hdl/essa_pkg.vhd
+essa_lib/hdl/XILINX_MDEBUG_MasterRec_to_SlaveSplit.vhd

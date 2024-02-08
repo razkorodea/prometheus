@@ -1,0 +1,16 @@
+Ethernet_TechnoLib/hdl/pack/pkg_gray.vhd
+Ethernet_TechnoLib/hdl/block/inferred/Xilinx/simple_dual_two_clocks_x.vhd
+Ethernet_TechnoLib/hdl/block/inferred/intel/simple_dual_two_clocks_x.vhd
+Ethernet_TechnoLib/hdl/block/inferred/Xilinx/simple_dual_one_clock_x.vhd
+Ethernet_TechnoLib/hdl/block/inferred/intel/simple_dual_one_clock_x.vhd
+Ethernet_TechnoLib/hdl/block/inferred/Xilinx/asym_ram_sdp_write_wider_x.vhd
+Ethernet_TechnoLib/hdl/block/inferred/intel/asym_ram_sdp_write_wider_x.vhd
+Ethernet_TechnoLib/hdl/block/inferred/Xilinx/asym_ram_sdp_read_wider_x.vhd
+Ethernet_TechnoLib/hdl/block/inferred/intel/asym_ram_sdp_read_wider_x.vhd
+Ethernet_TechnoLib/hdl/vhdl/wptr_full.vhd
+Ethernet_TechnoLib/hdl/vhdl/sync_ptr.vhd
+Ethernet_TechnoLib/hdl/vhdl/rptr_empty.vhd
+Ethernet_TechnoLib/hdl/ram_sdp_generic.vhd
+Ethernet_TechnoLib/hdl/vhdl/fifo_alarm.vhd
+Ethernet_TechnoLib/hdl/fifo_generic.vhd
+Ethernet_TechnoLib/hdl/vhdl/sync_distrib.vhd

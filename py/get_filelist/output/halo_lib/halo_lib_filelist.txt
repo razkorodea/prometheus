@@ -1,0 +1,15 @@
+halo_lib/hdl/thesis_pkg.vhd
+halo_lib/hdl/krypto_pkg.vhd
+halo_lib/ip/ila_hex/synth/ila_hex.vhd
+halo_lib/ip/ila_hex/sim/ila_hex.vhd
+halo_lib/hdl/ila_hex.vhd
+halo_lib/hdl/thesis_parser.vhd
+halo_lib/hdl/thesis_crc.vhd
+halo_lib/hdl/thesis_asm.vhd
+halo_lib/hdl/thesis_core.vhd
+halo_lib/hdl/thesis_egmii_if.vhd
+halo_lib/hdl/thesis_top.vhd
+halo_lib/hdl/thesis_upif.vhd
+halo_lib/hdl/krypto_aes_upif.vhd
+halo_lib/hdl/halo_wrapper.vhd
+halo_lib/hdl/halo_top.vhd
