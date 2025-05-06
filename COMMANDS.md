@@ -7,3 +7,7 @@ Useful commands.
 ```bash
 git status
 ```
+
+```bash
+git add --all
+```
